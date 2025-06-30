@@ -1,0 +1,10 @@
+#about{
+    width: 30rem;
+    display: flex;
+
+}
+
+#cards{
+    display: flex;
+    justify-content: space-between;
+}
